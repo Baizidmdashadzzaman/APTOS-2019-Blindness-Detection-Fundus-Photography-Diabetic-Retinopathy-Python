@@ -112,7 +112,8 @@ if __name__ == "__main__":
     test_images = [
         "old/4.png",
         "test_images/2.jpeg",
-        "test_images/3.jpeg"
+        "test_images/3.jpeg",
+        "test_images/4.jpeg"
     ]
 
     for p in test_images:
