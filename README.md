@@ -3,6 +3,8 @@ Dataset:https://www.kaggle.com/c/aptos2019-blindness-detection
 
 Paper:
 
+Docs: https://docs.google.com/document/d/1LkCcH8WriMwEhWqLqxHafUFunakZbFxwKowUCfy4QwM/edit?tab=t.0
+
 ![Image](1.jpg?raw=true "Image")
 
 ![Image](2.jpg?raw=true "Image")
