@@ -4,7 +4,11 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
+<<<<<<< HEAD:.idea/APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python.iml
     <orderEntry type="jdk" jdkName="Python 3.10 (APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python)" jdkType="Python SDK" />
+=======
+    <orderEntry type="inheritedJdk" />
+>>>>>>> bc8c1d27b5db8ee087e550186e46accfc28cc2a7:.idea/pythonProject3.iml
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -3,4 +3,8 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python)" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (pythonProject3)" project-jdk-type="Python SDK" />
+>>>>>>> bc8c1d27b5db8ee087e550186e46accfc28cc2a7
 </project>
