@@ -98,7 +98,7 @@ def decompose_image_morphological_approximation(preprocessed_image_array, se_rad
 
 # --- Example Usage ---
 # Make sure '4.jpg' is in the same directory as this script, or provide its full path.
-image_path = "test_images/4.jpeg"
+image_path = "test_before_train/6.png"
 
 # 1. Preprocessing stage
 preprocessed_image_array = preprocess_fundus_image(image_path)

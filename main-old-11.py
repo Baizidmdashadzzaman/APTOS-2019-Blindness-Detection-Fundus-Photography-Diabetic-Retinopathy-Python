@@ -104,7 +104,7 @@ def generate_attention_heatmap_overlay(original_img, attention_map, alpha=0.6, c
 
 # === MAIN ===
 if __name__ == "__main__":
-    image_path = "old/4.png"  # Change to your image path
+    image_path = "test_before_train/6.png"  # Change to your image path
     pre_img, original_img = preprocess_fundus_image(image_path)
     idark, ibri = decompose_image_morphological_approximation(pre_img, se_radius_small=3, threshold_factor=0.05)
 

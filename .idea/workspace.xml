@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e11a8a8-7fea-40f2-bc85-93cd4f07429d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/3-fillter-bright-green-color-obj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main-old-15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_approximation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_approximation_fully_black_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_colorized_approximation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_colorized_approximation_refined.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_colorized_with_advanced_optic_disc_mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_colorized_with_optic_disc_mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_final_attempt_colored_masked.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_final_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_final_output_fully_black.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_heatmap_overlay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_overlay_on_green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_plot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ibri_revisited_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_approximation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_approximation_tuned_for_Ibri.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_colorized_approximation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_colorized_approximation_refined_optic_disc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_colorized_with_advanced_optic_disc_mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_colorized_with_optic_disc_mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_final_attempt_colored_masked.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_final_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_final_output_for_comparison.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_heatmap_overlay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_overlay_on_green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_plot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Idark_revisited_output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attention_map_output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/main-old-11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash_code/main-old-12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-13.py" beforeDir="false" afterPath="$PROJECT_DIR$/main-old-13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/main-old-14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash_code/main-old-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash_code/main-old-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash_code/main-old-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash_code/main-old-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/main-old-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/Ibri_approximation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/Ibri_approximation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/Idark_approximation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/Idark_approximation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_pipeline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessed_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recreated_figure5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recreated_figure5_heatmap_style.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retina_decomposition_output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retina_decomposition_output_multiscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_before_train/5b76117c4bcb.png" beforeDir="false" afterPath="$PROJECT_DIR$/test_before_train/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_before_train/60f15dd68d30.png" beforeDir="false" afterPath="$PROJECT_DIR$/test_before_train/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/4.jpeg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zV0ZdvjYp7BpfEQynLl4ICbPwo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1-sharp-image.executor": "Run",
+    "Python.2-make-green.executor": "Run",
+    "Python.3-fillter-bright-green-color-obj.executor": "Run",
+    "Python.main-old-10.executor": "Run",
+    "Python.main-old-11.executor": "Run",
+    "Python.main-old-12.executor": "Run",
+    "Python.main-old-13.executor": "Run",
+    "Python.main-old-14.executor": "Run",
+    "Python.main-old-15.executor": "Run",
+    "Python.main-old-2.executor": "Run",
+    "Python.main-old-3.executor": "Run",
+    "Python.main-old-4.executor": "Run",
+    "Python.main-old-5.executor": "Run",
+    "Python.main-old-6.executor": "Run",
+    "Python.main-old-7.executor": "Run",
+    "Python.main-old-8.executor": "Run",
+    "Python.main-old-9.executor": "Run",
+    "Python.main-old.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "M:/THESIS/APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python\trash_code" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e11a8a8-7fea-40f2-bc85-93cd4f07429d" name="Changes" comment="" />
+      <created>1751800989329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751800989329</updated>
+    </task>
+    <servers />
+  </component>
+</project>

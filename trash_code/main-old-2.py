@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the original image
-img = cv2.imread("old/4.png")
+img = cv2.imread("test_before_train/6.png")
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
@@ -47,4 +47,4 @@ for ax, img, title in zip(axs, images, titles):
 
 plt.tight_layout()
 plt.savefig("retina_decomposition_output_multiscale.png", dpi=300)
-# plt.show()  # Uncomment if you want to display the result interactively
+plt.show()  # Uncomment if you want to display the result interactively

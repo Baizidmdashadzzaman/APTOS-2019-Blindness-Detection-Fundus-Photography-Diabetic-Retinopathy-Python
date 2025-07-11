@@ -92,9 +92,8 @@ def generate_figure_columns(image_path, se_radius=3, threshold=0.05, img_size=(6
 if __name__ == "__main__":
     # List your test images here (change paths as needed)
     test_images = [
-        "old/4.png",
-        "test_images/2.jpeg",
-        "test_images/3.jpeg"
+        "test_before_train/4.png",
+        "test_before_train/6.png"
     ]
 
     # Check images exist before running

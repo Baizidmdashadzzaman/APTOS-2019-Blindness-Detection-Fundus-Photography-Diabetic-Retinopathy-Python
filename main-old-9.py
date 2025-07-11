@@ -69,7 +69,7 @@ def overlay_on_green_channel(original_array, mask_array, filename):
     return overlay
 
 # ==== Main ====
-image_path = "old/4.png"  # Set your image path
+image_path = "test_before_train/6.png"  # Set your image path
 preprocessed = preprocess_fundus_image(image_path)
 print("Preprocessing done. Shape:", preprocessed.shape)
 
