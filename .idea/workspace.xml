@@ -5,83 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e11a8a8-7fea-40f2-bc85-93cd4f07429d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final_overlaid_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/final_overlaid_image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-old-1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-old-10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-old-11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-old-13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-old-14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-old-15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-old-5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-old-7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-old-9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Ibri_approximation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Idark_approximation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_approximation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_approximation_fully_black_background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_colorized_approximation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_colorized_approximation_refined.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_colorized_with_advanced_optic_disc_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_colorized_with_optic_disc_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_final_attempt_colored_masked.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_final_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_final_output_fully_black.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_heatmap_overlay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_overlay_on_green.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_plot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Ibri_revisited_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_approximation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_approximation_tuned_for_Ibri.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_colorized_approximation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_colorized_approximation_refined_optic_disc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_colorized_with_advanced_optic_disc_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_colorized_with_optic_disc_mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_final_attempt_colored_masked.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_final_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_final_output_for_comparison.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_heatmap_overlay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_overlay_on_green.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_plot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/Idark_revisited_output.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/attention_map_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old-9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/main-old.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/output_pipeline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/preprocessed_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/recreated_figure5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/recreated_figure5_heatmap_style.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/retina_decomposition_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output_before_06_17_2025/retina_decomposition_output_multiscale.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash_code/main-old-12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash_code/main-old-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash_code/main-old-3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash_code/main-old-4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash_code/main-old-8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash_code/main-old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-sharp-image.py" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/1-sharp-image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-make-green.py" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/2-make-green.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-fillter-bright-green-color-obj.py" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/3-fillter-bright-green-color-obj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-overlay-bright-to-original-image.py" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/4-overlay-bright-to-original-image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/converted_to_image_jpeg_style.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/converted_to_image_jpeg_style.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/converted_to_image_jpeg_style2.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/converted_to_image_jpeg_style2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_pipeline_result.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/full_pipeline_result.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green_isolated_fundus.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/green_isolated_fundus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green_red_isolated_fundus.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/green_red_isolated_fundus.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,14 +59,19 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "M:/THESIS/APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python"
+    "last_opened_file_path": "M:/THESIS/APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python/DarkRegion"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python\DarkRegion" />
+      <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python\Dark Region" />
       <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python\BrightRegion" />
+      <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python" />
+      <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python\Bright Region" />
       <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python\trash_code" />
     </key>
   </component>
