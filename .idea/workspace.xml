@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3e11a8a8-7fea-40f2-bc85-93cd4f07429d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-sharp-image.py" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/1-sharp-image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-make-green.py" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/2-make-green.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-fillter-bright-green-color-obj.py" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/3-fillter-bright-green-color-obj.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-overlay-bright-to-original-image.py" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/4-overlay-bright-to-original-image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/converted_to_image_jpeg_style.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/converted_to_image_jpeg_style.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/converted_to_image_jpeg_style2.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/converted_to_image_jpeg_style2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/full_pipeline_result.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/full_pipeline_result.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/green_isolated_fundus.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/green_isolated_fundus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/green_red_isolated_fundus.png" beforeDir="false" afterPath="$PROJECT_DIR$/BrightRegion/green_red_isolated_fundus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,36 +24,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1-4-process-of-ibri-from-fundus-image.executor": "Run",
-    "Python.1-sharp-image.executor": "Run",
-    "Python.2-make-green.executor": "Run",
-    "Python.3-fillter-bright-green-color-obj.executor": "Run",
-    "Python.main-old-10.executor": "Run",
-    "Python.main-old-11.executor": "Run",
-    "Python.main-old-12.executor": "Run",
-    "Python.main-old-13.executor": "Run",
-    "Python.main-old-14.executor": "Run",
-    "Python.main-old-15.executor": "Run",
-    "Python.main-old-2.executor": "Run",
-    "Python.main-old-3.executor": "Run",
-    "Python.main-old-4.executor": "Run",
-    "Python.main-old-5.executor": "Run",
-    "Python.main-old-6.executor": "Run",
-    "Python.main-old-7.executor": "Run",
-    "Python.main-old-8.executor": "Run",
-    "Python.main-old-9.executor": "Run",
-    "Python.main-old.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "M:/THESIS/APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python/DarkRegion"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1-4-process-of-ibri-from-fundus-image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1-sharp-image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-make-green.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3-fillter-bright-green-color-obj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old-9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main-old.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;M:/THESIS/APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python/DarkRegion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="M:\THESIS\APTOS-2019-Blindness-Detection-Fundus-Photography-Diabetic-Retinopathy-Python\DarkRegion" />
